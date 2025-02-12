@@ -1,6 +1,6 @@
 # zenith_snack_bar
 
-The ZenithSnackBar is located at the top of the screen and can display multiple contents at the same time.
+The ZenithSnackBar appears at the top of the screen and, unlike SnackBar, allows you to display multiple contents simultaneously for a dynamic user experience.
 
 ![image.png](./image.png)
 
