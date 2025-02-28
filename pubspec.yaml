@@ -1,5 +1,5 @@
 name: zenith_snack_bar
-description: "A new Flutter package project."
+description: "The ZenithSnackBar appears at the top of the screen and, unlike SnackBar, allows you to display multiple contents simultaneously."
 version: 1.0.0
 repository: https://github.com/upsidr/zenith_snack_bar
 
